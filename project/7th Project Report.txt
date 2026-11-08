@@ -1,0 +1,13 @@
+1- Road and lane segmentation for driver assistance
+2- Youssof Hossam 241006189
+   Maya islam ali 241005127
+   Habiba Ashraf 231014842
+3- KITTI
+raw data
+https://www.cvlibs.net/datasets/kitti/raw_data.php
+road data
+https://www.cvlibs.net/datasets/kitti/eval_road.php
+   BDD100K
+http://bdd-data.berkeley.edu/download.html
+4- Color-Based Segmentation (Baseline) -- Fully Convolutional Network (FCN) -- U-Net
+5- https://github.com/youssof33/Road-and-lane-segmentation-for-driver-assistance
