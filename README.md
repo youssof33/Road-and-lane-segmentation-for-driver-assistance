@@ -1,2 +1,7 @@
-# Road-and-lane-segmentation-for-driver-assistance
-Road and lane segmentation pipeline for ADAS (Lane Departure Warning). Compares a color-based baseline, FCN, and U-Net, tested across clear, night, and rainy conditions using KITTI, Cityscapes, and local dashcam footage.
+17. Road and lane segmentation for driver assistance
+Mark the drivable road and the lane markings in a dashcam video, which is the first stage of a lane departure
+warning.
+Course path. A colour based baseline, then FCN, then U-Net, then a test on night and rain footage where the
+baseline collapses and the network degrades more gracefully.
+Data and demo. KITTI Road or Cityscapes for training, plus video recorded locally. The demo is a processed
+clip with a lane departure alert.
